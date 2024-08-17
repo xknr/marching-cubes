@@ -1,0 +1,21 @@
+assign different colors to different categories like 4c, 4d, etc.
+	write on top of them with text
+
+Settings at xknr.march.algo.Settings
+
+Mouse easing formula does not (cannot) use deltaTime.
+
+middle point ambiguity
+https://urbanspr1nter.github.io/marchingsquares/
+
+3d case, complementaries, ambiguous
+https://users.polytech.unice.fr/~lingrand/MarchingCubes/algo.html
+
+
+calculate normals:
+https://www.reddit.com/r/VoxelGameDev/comments/nje0yl/how_to_properly_implement_marching_cubes_vertex/
+
+https://stackoverflow.com/questions/11074462/marching-cube-ambiguities-versus-marching-tetrahedron
+
+https://i.stack.imgur.com/2ndOx.png
+
